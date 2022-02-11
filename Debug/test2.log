@@ -1,0 +1,6 @@
+﻿  source.c
+F:\MEGA\CETYS\Vier\Algos\codes\rbTree\test2\source.c(92,31): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+F:\MEGA\CETYS\Vier\Algos\codes\rbTree\test2\source.c(112,31): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+F:\MEGA\CETYS\Vier\Algos\codes\rbTree\test2\source.c(335,15): warning C4033: 'deleteNode' debe devolver un valor
+F:\MEGA\CETYS\Vier\Algos\codes\rbTree\test2\source.c(368): warning C4715: 'deleteNode': no todas las rutas de acceso de control devuelven un valor
+  test2.vcxproj -> F:\MEGA\CETYS\Vier\Algos\codes\rbTree\test2\Debug\test2.exe
